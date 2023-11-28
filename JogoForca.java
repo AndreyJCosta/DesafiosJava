@@ -6,7 +6,7 @@ public class JogoForca {
 
 
 		public static void main(String[] args) {
-	        String palavraChave = "bicicleta";
+	        String palavraChave = "carambola";
 	        String letrasUsadas = " ";
 	        String palavraAdivinhada = "";
 	        int tentativas_MAX = 8;
